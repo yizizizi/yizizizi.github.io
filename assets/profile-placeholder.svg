@@ -1,0 +1,10 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" fill="#E9EEE8"/>
+  <path d="M88 588L632 132" stroke="#D0D8D0" stroke-width="2"/>
+  <path d="M132 632L588 88" stroke="#D0D8D0" stroke-width="2"/>
+  <circle cx="360" cy="286" r="94" fill="#F7F5F0" stroke="#17201B" stroke-width="3"/>
+  <path d="M202 600C223 503 284 444 360 444C436 444 497 503 518 600" fill="#F7F5F0"/>
+  <path d="M202 600C223 503 284 444 360 444C436 444 497 503 518 600" stroke="#17201B" stroke-width="3" stroke-linecap="round"/>
+  <rect x="44" y="44" width="632" height="632" stroke="#17201B" stroke-width="3"/>
+  <text x="360" y="660" text-anchor="middle" fill="#0F6B55" font-family="Arial, sans-serif" font-size="28" font-weight="700">ZHEJIANG UNIVERSITY</text>
+</svg>
